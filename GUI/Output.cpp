@@ -2,6 +2,7 @@
 #include<string>
 #include<iostream>
 
+///////////kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 
 void Output::correct(int& x, int &y) const
 {
